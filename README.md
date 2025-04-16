@@ -8,8 +8,8 @@
     <td>
       <p> <br>
 <i>Sou apaixonado por letras, gramática, idiomas estrangeiros e, claro, por <strong>tecnologia</strong> — áreas que despertam em mim uma curiosidade constante e um desejo genuíno de aprendizado.<br>
-        Tenho 20 anos e acredito que investir com <strong>dedicação e perseverança</strong> nas minhas paixões é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br></i>
-        Vejo no conhecimento um caminho de transformação, e sigo trilhando essa jornada com entusiasmo e propósito.<br>
+        Tenho 20 anos e acredito que investir com <strong>dedicação e perseverança</strong> nas minhas paixões é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br>
+        Vejo no conhecimento um caminho de transformação, e sigo trilhando essa jornada com entusiasmo e propósito.<br><br></i>
       </p>
     </td>
   </tr>
