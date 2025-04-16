@@ -9,6 +9,7 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 
 - **Linguagem Principal:**  
   - ![Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)
+    ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo&logoColor=white) 
     
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, etc.
