@@ -1,6 +1,7 @@
 
 # Olá, me chamo Gabriel Oliveira Silva (aka Back-byte) 👋
-![dev](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EybnRkeDV1MDNpaXgxa3htdHFjb3NmeHFnNTFuZTNncnprZWwzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)**Apaixonado por letras (português), gramática, linguagens e, claro: tecnologia.**
+![dev](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EybnRkeDV1MDNpaXgxa3htdHFjb3NmeHFnNTFuZTNncnprZWwzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+-**Apaixonado por letras (português), gramática, linguagens e, claro: tecnologia.**
 Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o melhor caminho para a evolução pessoal e profissional.
 
 ---
