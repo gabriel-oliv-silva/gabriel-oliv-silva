@@ -23,8 +23,8 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 
 ## 🔥 Projetos Recentes
 
-- **[Bike Shop](#)** – Sistema de venda de bicicletas com acessórios.
-- **[TV](#)** – Controle Remoto simples de televisão.
+- **[Celular](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Celular)** – Sistema de uma loja que vende celulares com capinha protetora.
+- **[Bike Shop](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Bike%20Shop)** – Sistema de venda de bicicletas com acessórios.
 
 ---
 
