@@ -8,7 +8,7 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 ## 🚀 Tecnologias e Conhecimentos
 
 - **Linguagem Principal:**  
-  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=orange)
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, etc.
@@ -31,10 +31,10 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 ## 📊 Estatísticas do GitHub
 
 <!-- Badge para as linguagens utilizadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
 
 <!-- Badge para contagem de visitas, se desejar -->
-[![Profile Views](https://gpvc.arturio.dev/gabriel-oliv-silva)](https://github.com/gabriel-oliv-silva)
+![Visualizações](https://gpvc.arturio.dev/[https://github.com/gabriel-oliv-silva])
 
 ---
 
