@@ -7,8 +7,9 @@
     </td>
     <td>
       <p>
-        <strong>Apaixonado por letras (português), gramática, linguagens estrangeiras e, claro: <u>tecnologia.</u></strong> <br>
-       Tenho 20 anos e acredito que <i>apostar incansavelmente na minha paixão</i> é o melhor caminho para a evolução pessoal e profissional.
+Sou apaixonado por letras, gramática, idiomas estrangeiros e, claro, por <strong>tecnologia</strong> — áreas que despertam em mim uma curiosidade constante e um <i>desejo genuíno de aprendizado.</i><br>
+        Tenho 20 anos e acredito que <strong>investir com dedicação e perseverança nas minhas paixões</strong> é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br>
+        Vejo no conhecimento um caminho de <u>transformação</u>, e sigo trilhando essa jornada com entusiasmo e propósito.
       </p>
     </td>
   </tr>
