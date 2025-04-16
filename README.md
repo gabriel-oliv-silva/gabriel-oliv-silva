@@ -7,8 +7,8 @@
     </td>
     <td>
       <p>
-        **Apaixonado por letras (português), gramática, linguagens e, claro: tecnologia.**<br><br>
-       Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o melhor caminho para a evolução pessoal e profissional.
+        <strong>Apaixonado por letras (português), gramática, linguagens estrangeiras e, claro: <u>tecnologia.</u></strong> <br>
+       Tenho 20 anos e acredito que <i>apostar incansavelmente na minha paixão</i> é o melhor caminho para a evolução pessoal e profissional.
       </p>
     </td>
   </tr>
