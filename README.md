@@ -6,10 +6,10 @@
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EybnRkeDV1MDNpaXgxa3htdHFjb3NmeHFnNTFuZTNncnprZWwzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
     </td>
     <td>
-      <p>
-Sou apaixonado por letras, gramática, idiomas estrangeiros e, claro, por <strong>tecnologia</strong> — áreas que despertam em mim uma curiosidade constante e um <i>desejo genuíno de aprendizado.</i><br>
-        Tenho 20 anos e acredito que <strong>investir com dedicação e perseverança nas minhas paixões</strong> é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br>
-        Vejo no conhecimento um caminho de <u>transformação</u>, e sigo trilhando essa jornada com entusiasmo e propósito.
+      <p> <br>
+<i>Sou apaixonado por letras, gramática, idiomas estrangeiros e, claro, por <strong>tecnologia</strong> — áreas que despertam em mim uma curiosidade constante e um desejo genuíno de aprendizado.<br>
+        Tenho 20 anos e acredito que investir com <strong>dedicação e perseverança</strong> nas minhas paixões é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br></i>
+        Vejo no conhecimento um caminho de transformação, e sigo trilhando essa jornada com entusiasmo e propósito.<br>
       </p>
     </td>
   </tr>
