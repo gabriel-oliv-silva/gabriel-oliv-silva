@@ -28,13 +28,8 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <!-- Badge para as linguagens utilizadas -->
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
-
-<!-- Badge para contagem de visitas, se desejar -->
-[![Visualizações](https://gpvc.arturio.dev/)] (https://github.com/gabriel-oliv-silva)
 
 ---
 
