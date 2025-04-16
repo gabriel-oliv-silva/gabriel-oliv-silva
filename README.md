@@ -8,8 +8,8 @@ Tenho 20 anos e acredito que **apostar incansavelmente na minha paixão** é o m
 ## 🚀 Tecnologias e Conhecimentos
 
 - **Linguagem Principal:**  
-  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+  - ![Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)
+    
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, etc.
 
