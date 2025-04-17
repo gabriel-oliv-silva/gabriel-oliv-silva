@@ -30,15 +30,15 @@
   - Interesse em ser Full Stack.
 
 - **Ferramentas do Dia a Dia:**  
-  - Git, IntelliJ (anteriormente, Eclipse) e, futuramente, Figma.
+  - Git e IntelliJ (anteriormente, Eclipse).
 
 ---
 
 ## 🔥 Projetos Recentes
 
+- **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
 - **[Celular](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Celular)** – Sistema de uma loja que vende celulares com capinha protetora.
-- **[Bike Shop](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Bike%20Shop)** – Sistema de venda de bicicletas com acessórios.
-
+  
 ---
 
 <!-- Badge para as linguagens utilizadas -->
