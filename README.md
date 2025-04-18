@@ -18,8 +18,8 @@
 </table>
 
 ---
-<details>
-<summary> <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2> </summary>
+
+<h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2>
 
 - **Linguagem Principal:**  
 
@@ -36,33 +36,26 @@
 - **Ferramentas do Dia a Dia:**  
   - Git e IntelliJ (anteriormente, Eclipse).
     
-</details>
-
 ---
 
-<details> 
-<summary> <h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2></summary>
+<h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2>
 
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária> Imobiliária </a> – Utilizando interface e classe abstrata num sistema de imobiliária.
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco> Banco </a> – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
-</details>
 
 ---
-<details>
-<summary><h2><img src="![software](https://github.com/user-attachments/assets/faddc919-d954-4a7a-ba8d-ab71dd8bc04a)
-" width="25">Linguagens</h2></summary>
+
+<h2><img src="![software](https://github.com/user-attachments/assets/faddc919-d954-4a7a-ba8d-ab71dd8bc04a)" width="25"> Linguagens</h2>
 <!-- Badge para as linguagens utilizadas -->
+
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
 
-</details>
 ---
 
-<details>
-<summary> <h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2> </summary>
+<h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2>
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
-</details>
 
 ---
 
