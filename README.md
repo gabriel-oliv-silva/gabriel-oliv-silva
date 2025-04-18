@@ -36,9 +36,9 @@
 
 ## 🔥 Projetos Recentes
 
+- **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface num sistema de imobiliária.  
 - **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
-- **[Celular](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Celular)** – Sistema de uma loja que vende celulares com capinha protetora.
-  
+- 
 ---
 
 <!-- Badge para as linguagens utilizadas -->
@@ -48,8 +48,8 @@
 
 ## 📫 Contato
 
-- **Email:** [ogabriel292@gmail.com](mailto:ogabriel292@gmail.com)
-- **LinkedIn:** [Gabriel Silva](https://www.linkedin.com/in/gabriel-silva-b39901185/)
+- **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
+- **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
 
 ---
 
