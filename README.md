@@ -17,7 +17,8 @@
 
 ---
 
-## 🚀 Tecnologias e Conhecimentos
+![Foguete](https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif)
+## Tecnologias e Conhecimentos
 
 - **Linguagem Principal:**  
   - ![Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)
@@ -33,8 +34,8 @@
   - Git e IntelliJ (anteriormente, Eclipse).
 
 ---
-
-## 🔥 Projetos Recentes
+![Fogo](https://cdn.dribbble.com/userupload/22235263/file/original-655c452ea7ccc4cd2734b0f3bb6dce3d.gif)
+## Projetos Recentes
 
 - **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface e classe abstrata num sistema de imobiliária.  
 - **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
