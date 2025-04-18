@@ -37,12 +37,11 @@
   - Git e IntelliJ (anteriormente, Eclipse).
 
 ---
-
+<details> 
 <summary> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </summary>
 
-<details> 
-- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária> [Imobiliária] </a> – Utilizando interface e classe abstrata num sistema de imobiliária.  
-- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco> [Banco] </a> – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
+- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária> Imobiliária </a> – Utilizando interface e classe abstrata num sistema de imobiliária.
+- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco> Banco </a> – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
 </details>
 ---
 
