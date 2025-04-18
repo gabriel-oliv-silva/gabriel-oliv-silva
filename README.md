@@ -1,4 +1,4 @@
-# Olá, me chamo Gabriel Oliveira Silva (aka Back-byte) 👋
+<h1> Olá, me chamo Gabriel Oliveira Silva (aka Back-byte) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="25"> </h1>
 
 <table>
   <tr>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2> <img src="https://s5.ezgif.com/tmp/ezgif-5595ad0d345386.gif" width="25"> Contato </h2> 
+<h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2> 
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
