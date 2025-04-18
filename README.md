@@ -38,7 +38,7 @@
 
 ---
 <details> 
-<summary> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </summary>
+<summary> <h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2></summary>
 
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária> Imobiliária </a> – Utilizando interface e classe abstrata num sistema de imobiliária.
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco> Banco </a> – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
