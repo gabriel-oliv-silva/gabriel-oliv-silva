@@ -23,7 +23,6 @@
 
 - **Linguagem Principal:**  
 
-  <a href="https://github.com/gabriel-oliv-silva/Java-Passos">
   <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" title="Java" />
 </a>
 
@@ -45,7 +44,7 @@
 
 ---
 
-<h2><img src="![software](https://github.com/user-attachments/assets/faddc919-d954-4a7a-ba8d-ab71dd8bc04a)" width="25"> Linguagens</h2>
+<h2><img src="file:///C:/Users/ogabr/Downloads/software.gif" width="25"> Linguagens</h2>
 <!-- Badge para as linguagens utilizadas -->
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
