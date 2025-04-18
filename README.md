@@ -47,7 +47,7 @@
 
 ---
 
-<h2> <img src="https://s5.ezgif.com/tmp/ezgif-5c84a588548e5.gif" width="25"> Contato </h2> 
+<h2> <img src="https://s5.ezgif.com/tmp/ezgif-5595ad0d345386.gif" width="25"> Contato </h2> 
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
