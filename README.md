@@ -18,8 +18,8 @@
 </table>
 
 ---
-
-<h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2> 
+<details>
+<summary> <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2> </summary>
 
 - **Linguagem Principal:**  
 
@@ -35,14 +35,18 @@
 
 - **Ferramentas do Dia a Dia:**  
   - Git e IntelliJ (anteriormente, Eclipse).
+    
+</details>
 
 ---
+
 <details> 
 <summary> <h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2></summary>
 
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária> Imobiliária </a> – Utilizando interface e classe abstrata num sistema de imobiliária.
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco> Banco </a> – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
 </details>
+
 ---
 
 <!-- Badge para as linguagens utilizadas -->
