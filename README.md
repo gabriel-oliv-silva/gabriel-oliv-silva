@@ -1,4 +1,4 @@
-![technologist_1f9d1-200d-1f4bb](https://github.com/user-attachments/assets/70729408-e46f-48e5-9143-514ada361124)<h1>
+  <h1>
   Olá, me chamo Gabriel Oliveira Silva (<code>aka Back-byte</code>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
   </h1> 
 
