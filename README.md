@@ -38,7 +38,7 @@
 
 - **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface num sistema de imobiliária.  
 - **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
-- 
+  
 ---
 
 <!-- Badge para as linguagens utilizadas -->
