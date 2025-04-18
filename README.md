@@ -48,16 +48,21 @@
 </details>
 
 ---
-
+<details>
+<summary><h2><img src="![software](https://github.com/user-attachments/assets/faddc919-d954-4a7a-ba8d-ab71dd8bc04a)
+" width="25">Linguagens</h2></summary>
 <!-- Badge para as linguagens utilizadas -->
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
 
+</details>
 ---
 
-<h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2> 
+<details>
+<summary> <h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2> </summary>
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
+</details>
 
 ---
 
