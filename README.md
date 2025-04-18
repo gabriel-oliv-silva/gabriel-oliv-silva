@@ -1,4 +1,4 @@
-<h1> Olá, me chamo Gabriel Oliveira Silva (aka Back-byte) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="36" height="36"> </h1>
+<h1> Olá, me chamo Gabriel Oliveira Silva (aka Back-byte) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="36" height="30"> </h1>
 
 <table>
   <tr>
