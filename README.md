@@ -1,5 +1,5 @@
 <h1>
-  Olá, me chamo Gabriel Oliveira Silva (<details> <summary>aka </summary> <p><code>Back-byte</code></p> </details>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
+  Olá, me chamo Gabriel Oliveira Silva (<code>aka Back-byte</code>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
   </h1> 
 
 <table>
@@ -38,12 +38,12 @@
 
 ---
 
-<h2>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2> 
+<summary> <h2>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2> </summary>
 
-
+<details> 
 - **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface e classe abstrata num sistema de imobiliária.  
 - **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
-  
+</details>
 ---
 
 <!-- Badge para as linguagens utilizadas -->
