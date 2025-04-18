@@ -36,7 +36,7 @@
 
 ## 🔥 Projetos Recentes
 
-- **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface num sistema de imobiliária.  
+- **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface e classe abstrata num sistema de imobiliária.  
 - **[Banco](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Banco)** – Utilizando Interface pela primeira vez, num sistema de conta bancária e caixa eletrônico.
   
 ---
