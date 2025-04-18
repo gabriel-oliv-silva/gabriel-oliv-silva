@@ -34,7 +34,7 @@
 
 ---
 
-<h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2> 
+<h2>  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2> 
 
 
 - **[Imobiliária](https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobiliária)** – Utilizando interface e classe abstrata num sistema de imobiliária.  
@@ -47,7 +47,7 @@
 
 ---
 
-## 📫 Contato
+<h2> <img src="https://s5.ezgif.com/tmp/ezgif-5c84a588548e5.gif" width="25"> Contato </h2> 
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
