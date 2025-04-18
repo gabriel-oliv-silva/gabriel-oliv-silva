@@ -1,8 +1,5 @@
 <h1>
-  Olá, me chamo Gabriel Oliveira Silva (<details>
-  <summary>aka </summary>
-  <p><code>Back-byte</code></p>
-</details>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
+  Olá, me chamo Gabriel Oliveira Silva (<details> <summary>aka </summary> <p><code>Back-byte</code></p> </details>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
   </h1> 
 
 <table>
