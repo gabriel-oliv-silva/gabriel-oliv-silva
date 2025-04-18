@@ -1,7 +1,6 @@
 <h1>
   Olá, me chamo Gabriel Oliveira Silva (aka Back-byte)
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
-</h1>
+  </h1> <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
 
 <table>
   <tr>
