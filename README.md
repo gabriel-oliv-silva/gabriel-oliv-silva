@@ -22,7 +22,7 @@
 <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2> 
 
 - **Linguagem Principal:**  
-   [![Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)](https://github.com/gabriel-oliv-silva/Java-Passos)
+  - [![Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)](https://github.com/gabriel-oliv-silva/Java-Passos)
         
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, etc.
