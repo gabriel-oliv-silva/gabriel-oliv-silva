@@ -21,7 +21,7 @@
 
 <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2>
 
-- **Linguagem Principal:**  
+<h3> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h3>
 
 <table>
   <tr>
