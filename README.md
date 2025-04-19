@@ -23,8 +23,16 @@
 
 - **Linguagem Principal:**  
 
-  <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" title="Java" />
+<table>
+  <tr>
+    <td>
+      
+  <a href="https://github.com/gabriel-oliv-silva/Java-Passos/"> <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" title="Java">
 </a>
+    </td>
+  </tr>
+</table>
+  
 
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, <span title="Estudando, fora do curso, assuntos alheios como interface gráfica (Swing) e C#(.NET)">etc.</span>
