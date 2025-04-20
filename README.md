@@ -23,7 +23,7 @@
 
 - <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h4>
 
-<table>
+<table border = "1">
   <tr>
     <td>
       
