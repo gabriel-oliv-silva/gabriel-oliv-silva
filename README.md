@@ -24,8 +24,6 @@
 - <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h4>
 
   ![[Java](https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif)](https://github.com/gabriel-oliv-silva/Java-Passos)
-  ![[C#](https://www.reddit.com/r/Blockbench/comments/14tgal5/c_icon.gif)](https://github.com/gabriel-oliv-silva/C#-Passos)
-
 
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, <span title="Estudando, fora do curso, assuntos alheios como interface gráfica (Swing) e C#(.NET)">etc.</span>
