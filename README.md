@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>
-    <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif"> 
+    <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" width = "50"> 
     </a>
       </td>
     <!-- Atualize esta seção quando começar C#; 
@@ -35,7 +35,7 @@
 </td> -->
     
 <td> 
-<img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "60">
+<img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "50">
 </td>
 </tr>
 </table>
