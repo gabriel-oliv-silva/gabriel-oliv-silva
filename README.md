@@ -33,8 +33,9 @@
 <a href = "https://github.com/gabriel-oliv-silva/C#-Passos"> <img src = "https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" width="67"> 
 </a>
 </td> -->
+    
 <td> 
-<a> <img src = "https://i.ibb.co/bjSVbDmM/git-2.gif" width = "60"> </a>
+<a> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" = "60"> </a>
       </td>
 </tr>
 </table>
