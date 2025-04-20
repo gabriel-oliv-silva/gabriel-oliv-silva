@@ -21,7 +21,7 @@
 
 <h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2>
 
-- <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h4>
+- <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório, se houver.">Principais Linguagens:</span></strong> </h4>
 <table>
   <tr>
     <td>
@@ -35,8 +35,8 @@
 </td> -->
     
 <td> 
-<a> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" = "60"> </a>
-      </td>
+<img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "60">
+</td>
 </tr>
 </table>
 
