@@ -53,8 +53,9 @@
 
 <h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2>
 
+- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> Times </a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
+
 - <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Funcionarios/src/Exercise/java> Funcionários </a> – Manipulando funcionários de uma empresa com Arraylist, Interface e classe abstrata, pelo IntelliJ.
-- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Imobili%C3%A1ria/src/Negocios> Imobiliária </a> – Utilizando Interface e classe abstrata num sistema de imobiliária, último projeto pelo Eclipse IDE.
 
 ---
 
