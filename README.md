@@ -28,9 +28,13 @@
     <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif"> 
     </a>
       </td>
+    <!-- Atualize esta seção quando começar C#; 
     <td>
-<a href = "https://github.com/gabriel-oliv-silva/C#-Passos"> <img src = "https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966"> 
+<a href = "https://github.com/gabriel-oliv-silva/C#-Passos"> <img src = "https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" width="67"> 
 </a>
+</td> -->
+<td> 
+<a> <img src = "https://i.ibb.co/bjSVbDmM/git-2.gif" width = "60"> </a>
       </td>
 </tr>
 </table>
@@ -54,9 +58,18 @@
 ---
 
 <h2><img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="25"> Linguagens</h2>
+
 <!-- Badge para as linguagens utilizadas -->
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva)
+<table>
+<tr>
+<td>
+
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva) 
+
+</td>
+<tr>
+</table>
 
 ---
 
