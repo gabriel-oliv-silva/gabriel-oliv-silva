@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>
-    <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" width = "50"> 
+    <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" width = "50" alt="Java"> 
     </a>
       </td>
     <!-- Atualize esta seção quando começar C#; 
@@ -53,9 +53,9 @@
 
 <h2> <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="25"> Projetos Recentes </h2>
 
-- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code>Times</code> </a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
+- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code><font color = "red">Times</font></code> </a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
 
-- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Funcionarios/src/Exercise/java> <code>Funcionários</code> </a> – Manipulando funcionários de uma empresa com Arraylist, Interface e classe abstrata, pelo IntelliJ.
+- <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Funcionarios/src/Exercise/java> <code><font color = "red">Funcionários</font></code> </a> – Manipulando funcionários de uma empresa com Arraylist, Interface e classe abstrata, pelo IntelliJ.
 
 ---
 
