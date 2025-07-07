@@ -19,7 +19,7 @@
 
 ---
 
-<h2><img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.gif" width="25"> Tecnologias e Conhecimentos </h2>
+<h2> Tecnologias e Conhecimentos </h2>
 
 - <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório, se houver.">Principais Linguagens:</span></strong> </h4>
 <table>
@@ -53,13 +53,13 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code>Times</code></a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/testeTime> <code>Times</code></a> – Primeira prática de teste unitário.
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Funcionarios/src/Exercise/java> <code>Funcionários</code></a> – Manipulando funcionários de uma empresa com Arraylist, Interface e classe abstrata, pelo IntelliJ.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code>Times</code></a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
 
 ---
 
-<h2><img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="25"> Linguagens</h2>
+<h2> Linguagens</h2>
 
 <!-- Badge para as linguagens utilizadas -->
 
