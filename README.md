@@ -53,25 +53,9 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/testeTime> <code>Times</code></a> – Primeira prática de teste unitário.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/testeTime> <code>testeTimes</code></a> – Primeira prática de teste unitário.
 
 <code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code>Times</code></a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
-
----
-
-<h2> Linguagens</h2>
-
-<!-- Badge para as linguagens utilizadas -->
-
-<table>
-<tr>
-<td>
-
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-oliv-silva&layout=compact)](https://github.com/gabriel-oliv-silva) 
-
-</td>
-<tr>
-</table>
 
 ---
 
