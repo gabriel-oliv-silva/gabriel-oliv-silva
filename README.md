@@ -41,7 +41,7 @@
 </table>
 
 - **Conceitos e Práticas:**  
-  - Programação Orientada a Objetos (POO), Interfaces, ArrayLists, Enums, <span title="Estudando, fora do curso, assuntos alheios como interface gráfica (Swing) e C#(.NET)">etc.</span>
+  - Programação Orientada a Objetos (POO), Interfaces, tratamento de exceções, frameworks, <span title="Estudando, fora do curso, assuntos alheios como interface gráfica (Swing)">etc.</span>
 
 - **Área de Atuação:**  
   - Interesse em ser Full Stack.
