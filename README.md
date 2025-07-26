@@ -53,13 +53,13 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/testeTime> <code>testeTimes</code></a> – Primeira prática de teste unitário.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/TCD> <code>TCD</code></a> – Trabalho de conclusão da disciplina de Java, no SENAI, do 2º Módulo.
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Times/src/main/java/Gerenciamento> <code>Times</code></a> – Enum com Arraylist num sistema de times, pelo IntelliJ.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/Sistema%20de%20Cadastro%20de%20Estudante> <code>Sistema de Cadastro de Estudantes</code></a> – Utilizando teste unitário de forma um pouco mais avançado em relação á primeira vez.
 
 ---
 
-<h2> <img src="https://em-content.zobj.net/source/skype/295/mobile-phone_1f4f1.png" width="25"> Contato </h2>
+<h2> Contato </h2>
 
 - **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
 - **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
