@@ -40,13 +40,15 @@
 </table>
 
 - **Conceitos e Práticas:**  
-  - Programação Orientada a Objetos (POO), Interfaces, tratamento de exceções, frameworks, <span title="Estudando, fora do curso, assuntos alheios como interface gráfica (Swing)">etc.</span>
+  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks, <span title="Estudando, fora do curso, práticas alheias como inglês técnico.">, API`s, etc.</span>
 
 - **Área de Atuação:**  
-  - Interesse em ser Full Stack.
+  - Com maior fluência em back-end, mas com interesse em tornar-me fullstack.
 
 - **Ferramentas do Dia a Dia:**  
-  - Git e IntelliJ (anteriormente, Eclipse).
+  - Git para versionamento de código.
+  - JetBrains IntelliJ (anteriormente, Eclipse) para Java.
+  - JetBrains Rider e Visual Studio Code para C#.
     
 ---
 
