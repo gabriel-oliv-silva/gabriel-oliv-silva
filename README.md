@@ -21,7 +21,7 @@
 
 <h2> Tecnologias e Conhecimentos </h2>
 
-- <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório, se houver.">Principais Linguagens:</span></strong> </h4>
+- <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h4>
 <table>
   <tr>
     <td>
@@ -40,7 +40,7 @@
 </table>
 
 - **Conceitos e Práticas:**  
-  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks, <span title="Estudando, fora do curso, práticas alheias como inglês técnico.">, API`s, etc.</span>
+  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks, <span title="Estudando, fora do curso, práticas alheias como inglês técnico.">API`s, etc.</span>
 
 - **Área de Atuação:**  
   - Com maior fluência em back-end, mas com interesse em tornar-me fullstack.
