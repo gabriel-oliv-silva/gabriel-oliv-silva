@@ -36,6 +36,9 @@
 <td> 
 <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "50">
 </td>
+<td>
+  <a href = "https://github.com/gabriel-oliv-silva/FrontEnd-Passos"> <img src= "https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966"> </a>
+</td>
 </tr>
 </table>
 
