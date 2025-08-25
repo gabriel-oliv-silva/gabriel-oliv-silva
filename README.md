@@ -35,7 +35,7 @@
 </td>
     -->
     <td>
-  <a href = "https://github.com/gabriel-oliv-silva/FrontEnd-Passos"> <img src= "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/Front.gif" width = "50" alt = "Front-End"> </a>
+  <a href = "https://github.com/gabriel-oliv-silva/FrontEnd-Passos"> <img src= "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/Front.gif" width = "75" alt = "Front-End"> </a>
 </td>
 <td> 
 <a href= "#"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "50" alt = "Git"> </a>
