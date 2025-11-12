@@ -28,12 +28,10 @@
     <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" width = "50" alt="Java"> 
     </a>
       </td>
-    <!--
     <td>
 <a href = "https://github.com/gabriel-oliv-silva/Csharp-Passos"> <img src = "https://camo.githubusercontent.com/54cacc87dfb9ab3c77cec229d4781703f38cc5ff905df27ca3686e0a9a90a4d4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" width="67"> 
 </a>
 </td>
-    -->
     <td>
   <a href = "https://github.com/gabriel-oliv-silva/FrontEnd-Passos"> <img src= "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/Front.gif" width = "75" alt = "Front-End"> </a>
 </td>
@@ -53,7 +51,7 @@
 - **Ferramentas do Dia a Dia:**  
   - Git para versionamento de código.
   - JetBrains IntelliJ (anteriormente, Eclipse) para Java.
-  <!-- - JetBrains Rider (e/ou VS Code) para C#. -->
+  - JetBrains Rider (e/ou VS Code) para C#.
   - VS code para o front-End (HTML, CSS e JavaScript).
     
 ---
