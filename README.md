@@ -45,8 +45,9 @@
 </td>
 
 </tr>
-<tr><td colspan="6"><p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p></td></tr>
 </table>
+
+> <p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p>
 
 - **Conceitos e Práticas:**  
   - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks como Entity Framework, Consumo e criação de API`s Restful, etc.
