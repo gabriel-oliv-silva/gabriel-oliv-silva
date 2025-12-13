@@ -21,7 +21,7 @@
 
 <h2> Tecnologias e Conhecimentos </h2>
 
-- <h4> <strong>Principais Linguagens:</strong> </h4> <p>(Clique em qualquer uma delas para ser redirecionada ao repositório.)</p>
+- <h4> <strong>Principais Linguagens:</strong> </h4>
 <table>
   <tr>
     <td>Java</td>
@@ -45,6 +45,7 @@
 </td>
 
 </tr>
+<tr><td><p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p></td></tr>
 </table>
 
 - **Conceitos e Práticas:**  
