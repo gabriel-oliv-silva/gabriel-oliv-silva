@@ -43,10 +43,10 @@
 </table>
 
 - **Conceitos e Práticas:**  
-  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks, <span title="Estudando, fora do curso, práticas alheias como inglês técnico.">API`s, etc.</span>
+  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks como Entity Framework, Consumo e criação de API`s Restful, etc.
 
 - **Área de Atuação:**  
-  - Com maior fluência em back-end, mas com interesse em tornar-me fullstack.
+  - Fullstack: Banco de dados, Back-end e Front-end.
 
 - **Ferramentas do Dia a Dia:**  
   - Git para versionamento de código.
@@ -58,9 +58,9 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Primeiro-projeto-fullstack> <code>Primeiro projeto fullstack</code></a> – Primeira vez desenvolvendo do zero uma aplicação com frontEnd, backEnd, banco de dados e consumo de API.
+<code>-</code> <a href = https://github.com/gabrielsenai-hub/SwingMotors> <code>Swing Motors</code></a> – Trabalho de Conclusão de disciplina do 3º Semestre do Curso de Desenvolvimento de Sistemas, onde adquiri e implementei os conhecimentos acerca de: Identity, Context, Bootstrap, Repository Pattern, Razor, Controller, Seeds, etc. Utilizando a estrutura MVC.
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Java-Passos/tree/main/TCD> <code>TCD</code></a> – Trabalho de conclusão da disciplina de Java, no SENAI, do 2º Módulo.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Csharp-Passos/tree/main/MVC/Escola> <code>Inicialização ao MVC</code></a> – Introdução ao padrão MVC em ASP.Net/Entity Framework.
 
 
 ---
