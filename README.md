@@ -59,7 +59,7 @@
   - Git para versionamento de código.
   - JetBrains IntelliJ (anteriormente, Eclipse) para Java.
   - JetBrains Rider (e/ou VS Code) para C#.
-  - VS code para o front-End (HTML, CSS e JavaScript).
+  - VS code para o front-End (HTML, CSS e JavaScript/Bootstrap).
     
 ---
 
