@@ -24,6 +24,11 @@
 - <h4> <strong><span title = "Clique em qualquer uma delas para ser redirecionada ao repositório.">Principais Linguagens:</span></strong> </h4>
 <table>
   <tr>
+    <td>Java</td>
+    <td>C#</td>
+    <td>Front-End</td>
+      </tr>
+  <tr>
     <td>
     <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif" width = "50" alt="Java"> 
     </a>
