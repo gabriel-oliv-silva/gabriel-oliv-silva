@@ -45,7 +45,7 @@
 </td>
 
 </tr>
-<tr><td><p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p></td></tr>
+<tr><td colspan="3"><p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p></td></tr>
 </table>
 
 - **Conceitos e Práticas:**  
