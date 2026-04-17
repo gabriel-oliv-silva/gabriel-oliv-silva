@@ -71,9 +71,10 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabrielsenai-hub/SwingMotors> <code>Swing Motors</code></a> – Trabalho de Conclusão de disciplina do 3º Semestre do Curso de Desenvolvimento de Sistemas, onde adquiri e implementei os conhecimentos acerca de: Identity, Context, Bootstrap, Repository Pattern, Razor, Controller, Seeds, etc. Utilizando a estrutura MVC.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Php-passos/tree/main/Escola> <code>Inicialização ao MVC em Php</code></a> – Introdução ao padrão MVC em Php/Symfony Framework.
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Csharp-Passos/tree/main/MVC/Escola> <code>Inicialização ao MVC</code></a> – Introdução ao padrão MVC em ASP.Net/Entity Framework.
+
+<code>-</code> <a href = https://github.com/gabrielsenai-hub/SwingMotors> <code>Swing Motors</code></a> – Trabalho de Conclusão de disciplina do 3º Semestre do Curso de Desenvolvimento de Sistemas, onde adquiri e implementei os conhecimentos acerca de: Identity, Context, Bootstrap, Repository Pattern, Razor, Controller, Seeds, etc. Utilizando a estrutura MVC.
 
 
 ---
