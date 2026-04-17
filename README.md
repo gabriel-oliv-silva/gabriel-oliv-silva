@@ -36,7 +36,7 @@
     </a>
       </td>
     <td>
-<a href = "https://github.com/gabriel-oliv-silva/Csharp-Passos"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/c#.gif" width="67"> 
+<a href = "https://github.com/gabriel-oliv-silva/Csharp-Passos"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/csharp.gif" width="67"> 
 </a>
 </td>
     <td>
