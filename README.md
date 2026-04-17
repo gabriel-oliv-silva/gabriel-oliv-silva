@@ -1,3 +1,4 @@
+
   <h1>
   Olá, me chamo Gabriel Oliveira Silva (<code>aka Back-byte</code>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
   </h1> 
@@ -26,6 +27,7 @@
   <tr>
     <td>Java</td>
     <td>C#</td>
+    <td>PHP</td>
     <td>Front-End</td>
       </tr>
   <tr>
@@ -35,6 +37,10 @@
       </td>
     <td>
 <a href = "https://github.com/gabriel-oliv-silva/Csharp-Passos"> <img src = "https://camo.githubusercontent.com/3cda67c918247d8ca1eed3e4e7566bd2bccb5733e8f83c980b61c4a6276978a4/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" width="67"> 
+</a>
+</td>
+    <td>
+<a href = "https://github.com/gabriel-oliv-silva/Php-Passos"> <img src = "https://media.licdn.com/dms/image/v2/D5622AQGl6RjAtCbIbw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1681191300992?e=1778112000&v=beta&t=2b9wFF6ygc6I9JfJ40MwY-fELmOeAsNMbydAyCsFtGA" width="67"> 
 </a>
 </td>
     <td>
