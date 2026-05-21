@@ -1,91 +1,64 @@
+# Olá, me chamo Gabriel Oliveira Silva (`aka Back-byte`)
 
-  <h1>
-  Olá, me chamo Gabriel Oliveira Silva (<code>aka Back-byte</code>) <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40" style="vertical-align: -4px; margin: 0 6px;">
-  </h1> 
+Sou um desenvolvedor focado em **Back-end** e estudante de Desenvolvimento de Sistemas no SENAI. Minha trajetória é movida por uma curiosidade constante tanto pela lógica estruturada da tecnologia quanto pela precisão de letras, gramática e idiomas estrangeiros. 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3EybnRkeDV1MDNpaXgxa3htdHFjb3NmeHFnNTFuZTNncnprZWwzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-    </td>
-    <td>
-      <p> 
-        <br><i>Sou apaixonado por letras, gramática, idiomas estrangeiros e, claro, por <strong>tecnologia</strong> — áreas que despertam em mim uma curiosidade constante e um desejo genuíno de aprendizado.<br>
-        Tenho 20 anos e acredito que investir com <strong>dedicação e perseverança</strong> nas minhas paixões é a chave não apenas para o crescimento profissional, mas também para a minha evolução pessoal. <br>
-        Vejo no conhecimento um caminho de transformação, e sigo trilhando essa jornada com entusiasmo e propósito.<br><br></i>
-      </p>
-    </td>
-  </tr>
-</table>
+Acredito que o investimento contínuo com dedicação e propósito é a chave para a evolução pessoal e profissional. Atualmente, concentro meus esforços na criação de aplicações robustas, escaláveis e bem estruturadas, explorando arquiteturas modernas, gerenciamento de ambientes e integração de serviços inteligentes.
 
 ---
 
-<h2> Tecnologias e Conhecimentos </h2>
+## 🛠️ Tecnologias e Conhecimentos
 
-- <h4> <strong>Principais Linguagens:</strong> </h4>
-<table>
-  <tr>
-    <td>Java</td>
-    <td>C#</td>
-    <td>PHP</td>
-    <td>Front-End</td>
-      </tr>
-  <tr>
-    <td>
-    <a href = "https://github.com/gabriel-oliv-silva/Java-Passos"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/java.gif" width = "50" alt="Java"> 
-    </a>
-      </td>
-    <td>
-<a href = "https://github.com/gabriel-oliv-silva/Csharp-Passos"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/csharp.gif" width="67"> 
-</a>
-</td>
-    <td>
-<a href = "https://github.com/gabriel-oliv-silva/Php-Passos"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/php.gif" width="67"> 
-</a>
-</td>
-    <td>
-  <a href = "https://github.com/gabriel-oliv-silva/FrontEnd-Passos"> <img src= "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/Front.gif" width = "75" alt = "Front-End"> </a>
-</td>
-<td> 
-<a href= "https://github.com/gabriel-oliv-silva"> <img src = "https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" width = "50" alt = "Git"> </a>
-</td>
+<p align="left">
+  <a href="https://github.com/gabriel-oliv-silva/Csharp-Passos">
+    <img src="https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/csharp.gif" height="42" alt="C# passos">
+  </a>
+  <a href="https://github.com/gabriel-oliv-silva/Php-Passos">
+    <img src="https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/php.gif" height="42" alt="PHP passos">
+  </a>
+  <a href="https://github.com/gabriel-oliv-silva/Java-Passos">
+    <img src="https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/java.gif" height="42" alt="Java passos">
+  </a>
+  <a href="https://github.com/gabriel-oliv-silva/FrontEnd-Passos">
+    <img src="https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/Front.gif" height="42" alt="Front-End passos">
+  </a>
+  <a href="https://github.com/gabriel-oliv-silva">
+    <img src="https://github.com/gabriel-oliv-silva/gabriel-oliv-silva/blob/main/assets/git%20(2).gif" height="42" alt="Git perfil">
+  </a>
+</p>
 
-</tr>
-</table>
+> *Clique nas tags visuais acima para explorar diretamente meus repositórios de estudos.*
 
-> <p>Clique em qualquer uma delas para ser redirecionada ao repositório.</p>
+### **Back-end & Arquitetura**
+- **C# / .NET:** ASP.NET Core (MVC, Web API, Identity, Entity Framework Core)
+- **PHP:** Symfony Framework, Twig
+- **Conceitos:** Programação Orientada a Objetos (POO), Arquitetura MVC, tratamento de exceções, criação e consumo de APIs RESTful.
 
-- **Conceitos e Práticas:**  
-  - Programação Orientada a Objetos (POO), tratamento de exceções, frameworks como Entity Framework, Consumo e criação de API`s Restful, etc.
+### **Front-end**
+- HTML5, CSS3, JavaScript (ES6+) e Bootstrap.
 
-- **Área de Atuação:**  
-  - Fullstack: Banco de dados, Back-end e Front-end.
-
-- **Ferramentas do Dia a Dia:**  
-  - Git para versionamento de código.
-  - JetBrains IntelliJ (anteriormente, Eclipse) para Java.
-  - JetBrains Rider (e/ou VS Code) para C#.
-  - VS code para o front-End (HTML, CSS e JavaScript/Bootstrap).
-    
----
-
-<h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
-
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Enemix> <code>Criação da plataforma Enemix</code></a> – Criando uma plataforma de estudos em AspNet MVC para estudos relacionados ao Exame Nacional do Ensino Médio (Enem), possibilitando uploads de pdfs para geração automatico de simulados e estudos de tags especificas relacionadas aos temas.
-
-
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Php-passos/tree/main/Escola> <code>Inicialização ao MVC em Php</code></a> – Introdução ao padrão MVC em Php/Symfony Framework.
-
+### **Bancos de Dados, DevOps & Ferramentas**
+- **Ambientes & Dados:** Docker, docker-compose, MySQL e PostgreSQL.
+- **Versionamento & IDEs:** Git, GitHub, JetBrains Rider, IntelliJ e VS Code.
 
 ---
 
-<h2> Contato </h2>
+## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos em Destaque
 
-- **Email:** [ogabriel292@gmail.com ➚](mailto:ogabriel292@gmail.com)
-- **LinkedIn:** [Gabriel Silva ➚](https://www.linkedin.com/in/gabriel-silva-b39901185/)
+### InfoBairro
+Plataforma de avaliação de bairros projetada para consolidar dados reais sobre segurança, infraestrutura e lazer.
+- **Stack:** .NET / ASP.NET Core, MySQL, Docker e docker-compose.
+- **Destaque Técnico:** Integração avançada com a API do Google Maps e utilizando inteligência artificial via Gemini AI API para processamento e análise automatizada de dados urbanos.
+> Acesse [aqui](https://www.infobairro.com/)
+
+###  Enemix
+Plataforma de estudos voltada para o Exame Nacional do Ensino Médio (ENEM).
+- **Stack:** ASP.NET MVC.
+- **Destaque Técnico:** Implementação de sistema de upload e processamento de arquivos PDF para a geração automática de simulados baseados em tags temáticas específicas.
+> Acesse [aqui](https://enemix.runasp.net/)
 
 ---
 
-<!--
-Atualizar este README conforme o meu progresso e novos projetos. Manter sempre essa página alinhada com minha trajetória e as novidades do mundo da tecnologia!
--->
+##  Conecte-se comigo
+
+- **E-mail:** [ogabriel292@gmail.com](mailto:ogabriel292@gmail.com)
+- **LinkedIn:** [Gabriel Silva](https://www.linkedin.com/in/gabriel-silva-b39901185/)
