@@ -71,7 +71,7 @@
 
 <h2> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Soul_Fire_JE1.gif/revision/latest?cb=20200325183949" width="25"> Projetos Recentes </h2>
 
-<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Csharp-Passos/tree/main/MVC/Enemix> <code>Criação da plataforma Enemix</code></a> – Criando uma plataforma de estudos em AspNet MVC para estudos relacionados ao Exame Nacional do Ensino Médio (Enem), possibilitando uploads de pdfs para geração automatico de simulados e estudos de tags especificas relacionadas aos temas.
+<code>-</code> <a href = https://github.com/gabriel-oliv-silva/Enemix> <code>Criação da plataforma Enemix</code></a> – Criando uma plataforma de estudos em AspNet MVC para estudos relacionados ao Exame Nacional do Ensino Médio (Enem), possibilitando uploads de pdfs para geração automatico de simulados e estudos de tags especificas relacionadas aos temas.
 
 
 <code>-</code> <a href = https://github.com/gabriel-oliv-silva/Php-passos/tree/main/Escola> <code>Inicialização ao MVC em Php</code></a> – Introdução ao padrão MVC em Php/Symfony Framework.
