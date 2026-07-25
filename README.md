@@ -54,7 +54,7 @@ Plataforma de avaliação de bairros projetada para consolidar dados reais sobre
 Plataforma de estudos voltada para o Exame Nacional do Ensino Médio (ENEM).
 - **Stack:** ASP.NET MVC.
 - **Destaque Técnico:** Implementação de sistema de upload e processamento de arquivos PDF para a geração automática de simulados baseados em tags temáticas específicas.
-> Acesse [aqui](https://enemix.runasp.net/)
+> Acesse [aqui](https://github.com/gabriel-oliv-silva/Enemix)
 
 ---
 
